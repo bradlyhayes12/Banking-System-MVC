@@ -28,3 +28,9 @@ Before running the project, ensure you have the following installed:
     ```
 4. **Compile the Code**: Build the project to compile the Java files.
 5. **Run the Application**: Execute the ```AcctManagerMain.java``` class to start the banking system.
+## File Structure
+* **src/**: Contains the source code for the project, including:
+  * **Model**: the model aspect of the MVC.
+  * **Controller**: which allows the view to communicate wit hthe model.
+  * **View**: consists of the ```AcctManagerMain.java```.
+* **accounts.txt**: Contains inital account data for the program. 
